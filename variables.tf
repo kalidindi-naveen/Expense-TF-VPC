@@ -40,5 +40,5 @@ variable "database_subnet_cidrs" {
 }
 
 variable "enable_peering" {
-  default = false
+  default = true
 }
